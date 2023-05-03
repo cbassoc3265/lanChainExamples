@@ -1,0 +1,7 @@
+openai
+pandas
+langchain
+google-search-results
+selenium
+tiktoken
+faiss-cpu
